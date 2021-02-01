@@ -1,0 +1,12 @@
+D:\VS Code\Animal\Animal\bin\Debug\net5.0\Animal.deps.json
+D:\VS Code\Animal\Animal\bin\Debug\net5.0\Animal.dll
+D:\VS Code\Animal\Animal\bin\Debug\net5.0\ref\Animal.dll
+D:\VS Code\Animal\Animal\bin\Debug\net5.0\Animal.pdb
+D:\VS Code\Animal\Animal\obj\Debug\net5.0\Animal.csprojAssemblyReference.cache
+D:\VS Code\Animal\Animal\obj\Debug\net5.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code\Animal\Animal\obj\Debug\net5.0\Animal.AssemblyInfoInputs.cache
+D:\VS Code\Animal\Animal\obj\Debug\net5.0\Animal.AssemblyInfo.cs
+D:\VS Code\Animal\Animal\obj\Debug\net5.0\Animal.csproj.CoreCompileInputs.cache
+D:\VS Code\Animal\Animal\obj\Debug\net5.0\Animal.dll
+D:\VS Code\Animal\Animal\obj\Debug\net5.0\ref\Animal.dll
+D:\VS Code\Animal\Animal\obj\Debug\net5.0\Animal.pdb

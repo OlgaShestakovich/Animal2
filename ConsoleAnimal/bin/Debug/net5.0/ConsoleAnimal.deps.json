@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsoleAnimal/1.0.0": {
+        "dependencies": {
+          "Animal": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleAnimal.dll": {}
+        }
+      },
+      "Animal/1.0.0": {
+        "runtime": {
+          "Animal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAnimal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Animal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
